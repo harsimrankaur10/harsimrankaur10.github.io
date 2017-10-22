@@ -64,3 +64,6 @@ h3 {
 .border-box{
 	border: 5px dashed white;
 }
+h5 {
+	color: white;
+}
