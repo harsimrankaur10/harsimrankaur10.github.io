@@ -1,0 +1,66 @@
+.profile-pic {
+	max-width: 100%;
+}
+a:hover {
+	text-decoration: none;
+}
+
+.index-body{
+	background-image:url(../img/galaxy.jpg);
+	background-image: no-repeat;
+	background-size: cover;
+}
+
+.first-progress {
+	background-color:#761c82;
+}
+.third-progress {
+	background-color: #164f2e;
+}
+.my-link{
+	color:white;
+}
+.home-body {
+	background-image:url(../img/travel.jpg);
+	background-image: no-repeat;
+	background-size: cover;
+}
+h3 {
+	color: hotpink;
+}
+.first-paragraph {
+	color: #000000;
+	font-family: 'Luckiest Guy', cursive;
+	font-weight: bolder;
+
+}
+.second-paragraph {
+	color:#000000;
+	font-family: 'Luckiest Guy', cursive;
+}
+.head-four {
+	color:#000000;
+	font-family: 'Luckiest Guy', cursive;
+}
+.third-paragraph {
+	color:#000000;
+	font-family: 'Luckiest Guy', cursive;
+}
+.fourth-paragraph {
+	color:#000000;
+	font-family: 'Luckiest Guy', cursive;
+}
+.fifth-paragraph{
+	color:#000000;
+	font-family: 'Luckiest Guy', cursive;
+    
+}
+.bullets {
+	color: yellow;
+}
+.my-navbar {
+	background: linear-gradient(to right, green, orange);
+}
+.border-box{
+	border: 5px dashed white;
+}
